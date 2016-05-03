@@ -38,9 +38,9 @@ _Start Developing iOS Apps (Swift)_ 是一个用于创建在iPhone和iPad上运�
 
     Xcode会下载在你的 `/Applications` 目录
 
-*重要*
+>*重要*
 
-这个课程使用Xcode 7.0 和 iOS SDK 9.你整个学习过程确保使用这些版本的Xcode和iOS SDK。
+>这个课程使用Xcode 7.0 和 iOS SDK 9.你整个学习过程确保使用这些版本的Xcode和iOS SDK。
 
 
 
